@@ -1,0 +1,44 @@
+{
+    "users": [
+      {
+        "username": "satriawan",
+        "email": "satria@gmail.com",
+        "password": "satria123",
+        "experience": "beginner",
+        "lvl": "5",
+        "id": 1
+      },
+      {
+        "username": "irvania",
+        "email": "nia@gmail.com",
+        "password": "nia123",
+        "experience": "intermediate",
+        "lvl": "10",
+        "id": 2
+      },
+      {
+        "username": "hendra setiawan",
+        "email": "hendra@gmail.com",
+        "password": "hendra123",
+        "experience": "profesional",
+        "lvl": "15",
+        "id": 3
+      },
+      {
+        "username": "muhammad ahsan",
+        "email": "ahsan@gmail.com",
+        "password": "ahsan123",
+        "experience": "legend",
+        "lvl": "20",
+        "id": 4
+      },
+      {
+        "username": "valentino rossi",
+        "email": "rossi@gmail.com",
+        "password": "rosi46",
+        "experience": "legend",
+        "lvl": "20",
+        "id": 5
+      }
+    ]
+  }
