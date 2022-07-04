@@ -10,9 +10,9 @@ How To Use :
    - localhost://5000/docs (browser)
 
    dashboard
-   - start json-server  
+   - start json-server:  
      npm run json-server
-   - start react js
+   - start react js:
      cd client, npm start
 
 # Getting Started with Create React App
