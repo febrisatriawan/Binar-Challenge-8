@@ -1,3 +1,20 @@
+How To Use :
+
+2. Install depedencies:
+   - npm install (in folder app)
+   - cd clint, npm install (in folder client)
+   
+3. Run Application:
+   swagger
+   - node app.js
+   - localhost://5000/docs (browser)
+
+   dashboard
+   - start json-server  
+     npm run json-server
+   - start react js
+     npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
