@@ -1,10 +1,10 @@
 How To Use :
 
-2. Install depedencies:
+1. Install depedencies:
    - npm install (in folder app)
    - cd clint, npm install (in folder client)
    
-3. Run Application:
+2. Run Application:
    swagger
    - node app.js
    - localhost://5000/docs (browser)
